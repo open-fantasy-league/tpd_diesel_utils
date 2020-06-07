@@ -1,5 +1,5 @@
 [package]
-name = "tpd_diesel_utils"
+name = "diesel_utils"
 version = "0.1.0"
 authors = ["ThePianoDentist"]
 edition = "2018"
